@@ -1,5 +1,21 @@
 # <img src="./assets/logo.png" width=40> Deshi Deals
 
+> build an attractive & simple product shop with Responsive web design
+>   - 📂 GitHub Repository : 
+>   - 🌐 Live Link : 
+---
+
+## Tech Stack
+
+| Layer          | Technology                    |
+|--------------  |-------------------------------|
+| Frontend       | HTML, CSS, Tailwind, DaisyUI & DOM |
+| Version Ctrl   | Git, GitHub                   |
+
+> ⚙️ Built as part of a web systems project by Programming Hero.
+
+---
+
 ## Learning of Tailwind , DaisyUI & DOM
 
 - Tailwind in a nutshell : What , Why , How
@@ -12,8 +28,8 @@
   - tagName
   - querySelector
   - querySelectorAll
+    
 - Way of Manipulating Elements
-
   - Manipulate content ( innerText, innerHTML , textContent )
   - Manipulate Attribute ( src , title & others )
   - Manipulate Style
