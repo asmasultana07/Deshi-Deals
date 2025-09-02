@@ -1,8 +1,8 @@
 # <img src="./assets/logo.png" width=40> Deshi Deals
 
 > build an attractive & simple product shop with Responsive web design
->   - 📂 GitHub Repository : 
->   - 🌐 Live Link : 
+>   - 📂 GitHub Repository : https://github.com/asmasultana07/Deshi-Deals
+>   - 🌐 Live Link :  https://asmasultana07.github.io/Deshi-Deals/
 ---
 
 ## Tech Stack
